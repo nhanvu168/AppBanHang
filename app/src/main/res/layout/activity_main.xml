@@ -16,7 +16,7 @@
             <androidx.appcompat.widget.Toolbar
                 android:id="@+id/toolbarmanhinhchinh"
                 app:title="Trang chính"
-                android:background="#ff00dfff"
+                android:background="#EA4B3F"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize">
             </androidx.appcompat.widget.Toolbar>
@@ -26,14 +26,14 @@
                 android:layout_height="200dp">
             </ViewFlipper>
             <LinearLayout
-                android:background="#5999d2"
+                android:background="#EA4B3F"
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
                 <TextView
                     android:textSize="20sp"
                     android:layout_marginLeft="10dp"
-                    android:textColor="@android:color/holo_orange_light"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:text="Sản phẩm mới nhất"
                     android:layout_width="wrap_content"
