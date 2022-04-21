@@ -52,11 +52,11 @@ public class DienThoaiAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
         if (holder instanceof MyViewHolder){
             MyViewHolder myViewHolder = (MyViewHolder) holder;
             SanPhamMoi sanPham = array.get(position);
-            myViewHolder.tensp.setText(sanPham.getTensp());
+            myViewHolder.tensp.setText(sanPham.getTensp().trim());
             DecimalFormat decimalFormat = new DecimalFormat("###,###,###");
             myViewHolder.giasp.setText("Giá: "+decimalFormat.format(Double.parseDouble(sanPham.getGiasp()))+ "Đ");
             myViewHolder.mota.setText(sanPham.getMota());
-            myViewHolder.idsp.setText(sanPham.getId() +"");
+//            myViewHolder.idsp.setText(sanPham.getId() +"");
             Glide.with(context).load(sanPham.getHinhanh()).into(myViewHolder.hinhanh);
             myViewHolder.setItemClickListener(new ItemClickListener() {
                 @Override
@@ -105,7 +105,7 @@ public class DienThoaiAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
             tensp = itemView.findViewById(R.id.itemdt_ten);
             giasp = itemView.findViewById(R.id.itemdt_gia);
             mota = itemView.findViewById(R.id.itemdt_mota);
-            idsp = itemView.findViewById(R.id.itemdt_idsp);
+//            idsp = itemView.findViewById(R.id.itemdt_idsp);
             hinhanh = itemView.findViewById(R.id.itemdt_image);
             itemView.setOnClickListener(this);
         }

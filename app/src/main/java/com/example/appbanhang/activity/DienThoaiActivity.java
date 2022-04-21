@@ -112,6 +112,9 @@ public class DienThoaiActivity extends AppCompatActivity {
                             adapterDt.notifyItemRangeInserted(vitri,soluongadd);
                         }
 
+                    }else {
+                        Toast.makeText(getApplicationContext(),"Hết dữ liệu", Toast.LENGTH_LONG).show();
+                        isLoading = true;
                     }
                 },
                 throwable -> {
