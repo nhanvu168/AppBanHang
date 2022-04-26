@@ -3,15 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.2985" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/spinner.xml" value="0.2985" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_chi_tiet.xml" value="0.33" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_dien_thoai.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_gio_hang.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_laptop.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_dienthoai.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_giohang.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_loading.xml" value="0.2916666666666667" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_sanpham.xml" value="0.5" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_sp_moi.xml" value="0.358695652173913" />
