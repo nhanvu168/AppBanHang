@@ -144,4 +144,15 @@ public class ChiTietActivity extends AppCompatActivity {
         });
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if (Utils.manggiohang != null){
+            int totalItem = 0;
+            for (int i=0; i<Utils.manggiohang.size(); i++){
+                totalItem = totalItem + Utils.manggiohang.get(i).getSoluong();
+            }
+            badge.setText(String.valueOf(totalItem));
+        }
+    }
 }
