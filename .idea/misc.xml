@@ -14,10 +14,13 @@
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_reset_pass.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_thanh_toan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_xem_don.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_chitiet.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_dienthoai.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_donhang.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_giohang.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_loading.xml" value="0.2916666666666667" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/item_sanpham.xml" value="0.5" />
