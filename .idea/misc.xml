@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.2985" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/ic_search.xml" value="0.2985" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/drawable/spinner.xml" value="0.2985" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_chi_tiet.xml" value="0.33" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_dang_ki.xml" value="0.36666666666666664" />
@@ -13,6 +14,7 @@
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_laptop.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_reset_pass.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_search.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_thanh_toan.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/activity_xem_don.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/FABBI/AndroidStudioProjects/AppBanHang/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
